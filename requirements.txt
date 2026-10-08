@@ -1,5 +1,10 @@
 Flask
+Flask-PyMongo
 pymongo
 bcrypt
 PyJWT
-Flask-Sessions
+
+# testing
+pytest
+selenium
+webdriver-manager
